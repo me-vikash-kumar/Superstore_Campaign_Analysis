@@ -4,6 +4,7 @@ This repository contains an in-depth analysis of marketing campaigns using the S
 The project focuses on evaluating campaign performance, customer segmentation, and sales impact through interactive visualizations.
 
 Access the live dashboard here: [Superstore Campaign Dashboard](https://me-vikash-kumar.github.io/Superstore_Campaign_Analysis/index.html)
+<img width="1841" height="869" alt="image" src="https://github.com/user-attachments/assets/6b35523e-cdc3-4be6-aa04-42929a6622dd" />
 
 ---
 
